@@ -1,1 +1,1 @@
-# exmaple-js
+# example-js
